@@ -6,4 +6,4 @@ about: ajsdhakjshdkajhsd kajshd kjahsdk jahsd kjahsdkjhjks haskj dhaksjdhakjsdh 
 
 ## This is a bug!
 
-Wow! Content! Woooow!
+Wow! Content!
