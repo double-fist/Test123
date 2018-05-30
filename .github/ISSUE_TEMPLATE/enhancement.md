@@ -8,6 +8,3 @@ about: This is the description of the enhancement issue template.
 
 Ahhhhh!
 !
-asd 
-as
-das
