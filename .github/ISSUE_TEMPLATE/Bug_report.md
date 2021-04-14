@@ -1,7 +1,9 @@
 ---
 name: bug
-about: Foo bar
+about: ajsdhakjshdkajhsd kajshd kjahsdk jahsd kjahsdkjhjks haskj dhaksjdhakjsdh a kjskajshdkjagggggggX basdkj akjshd
 
 ---
 
-Bug template
+## This is a bug!
+
+Wow! Content! !!!
